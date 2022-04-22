@@ -1,2 +1,2 @@
 # stock_prediction-website
-Stock predction website as project for group 1
+Stock prediction website as project for group 1
